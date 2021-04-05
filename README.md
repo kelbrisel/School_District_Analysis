@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyCity_School_Analysis
 
 ## Purpose: 
 After generating a high level snapshot of ***PyCity School District*** key metrics, the district has identified inconsistencies with 9th grade reading and math scores at Thomas High School (THS). Original analysis is provided with amended results (replacing scores at THS, to maintain integrity of the data). 
